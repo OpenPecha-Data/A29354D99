@@ -1,0 +1,19 @@
+segment_sources:
+  PCC0BDDB4:
+    type: origin_type
+    relation: translation
+    language: en
+  PE996E0A3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fd57b26ce29b4420b9723228d5fb3303:
+    PCC0BDDB4: 9204850d3b82413cb40b60991cb12883
+    PE996E0A3: c5d299c86522493bb2547660e01028e6
+  ba6abe1391a248e2beda3b12419d2e08:
+    PCC0BDDB4: d0d0f28ede274344b027763e6d70c303
+    PE996E0A3: a87f21629035478c9dd9c45b58cc5925
+  a5fb5325bb29441d8b9c71239b430813:
+    PCC0BDDB4: 50485c15b6214f62b217f7a9b7ffe938
+    PE996E0A3: 946bd552d88a496ab308b9ebae108466

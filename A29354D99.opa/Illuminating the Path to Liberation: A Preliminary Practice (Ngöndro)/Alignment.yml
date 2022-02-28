@@ -1,0 +1,30 @@
+segment_sources:
+  PCC0BDDB4:
+    type: origin_type
+    relation: translation
+    language: en
+  P4F3A449A:
+    type: origin_type
+    relation: translation
+    language: zh
+  PE996E0A3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d6c12f88b64342bebf39a12a40d64eff:
+    PCC0BDDB4: 9b3e55db934745d68e7c979d43480fd2
+    P4F3A449A: 337564d06b5646e584a40f40d1bbd0a0
+    PE996E0A3: a4a8ec39a9a440738b581ce3348a48b9
+  fa3e063eb07c4530bc21a6058e2174fb:
+    PCC0BDDB4: 2132278f41314871a6a311ae992e55b9
+    P4F3A449A: 23bd749c164d4216aa7d386351086849
+    PE996E0A3: 9cc7883cfc314f7f836d383954133eb1
+  d14679b15b884ee897ea08d6210c4c52:
+    PCC0BDDB4: 8669ccc97f024870ab66cbe6987bd84b
+    P4F3A449A: 720abce8918d46b19359200fa1ba1bad
+    PE996E0A3: 4efe13a149214970ba6cd87bad3079b6
+  8de5845086f54ccbb0cd028a4db60345:
+    PCC0BDDB4: 04fc1876412946edb8ad35af474964c5
+    P4F3A449A: bc7b2b994730420e9885125d86d62a2e
+    PE996E0A3: ccda03c74863456f9b0b45a0ee321ce1

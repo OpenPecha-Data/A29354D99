@@ -1,0 +1,58 @@
+segment_sources:
+  PCC0BDDB4:
+    type: origin_type
+    relation: translation
+    language: en
+  P0BA83773:
+    type: origin_type
+    relation: translation
+    language: es
+  P462F5C35:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA2B82BD6:
+    type: origin_type
+    relation: translation
+    language: nl
+  PE996E0A3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  01c874a5ac434ab88e48015885ddd497:
+    PCC0BDDB4: 26ce1cac30ea49be9518f232c4fe741b
+    P0BA83773: 43270c2df5554e1a93532397b6c3c6d6
+    P462F5C35: a5f3b3213f4f4d0faa76936db2c28fe2
+    PA2B82BD6: 5c28f213d51647a0b0e474cc251da522
+    PE996E0A3: 50b58353405e4a30ac7746cd162f02da
+  cf055e31856444c9bed4358f6e3f1057:
+    PCC0BDDB4: 2ab34dc27ad04a3a8e4889a3790b7086
+    P0BA83773: 521703abe02445d6bc5eeadf64d6b9bc
+    P462F5C35: 177a8b986002493f9bcc800db20bd3d1
+    PA2B82BD6: bf0021597eac4821afbf5ad6704a8e68
+    PE996E0A3: 14a44d3d21d7467d92eaaf9aadbbbae5
+  c6d3ef2854304c0d877348f64a771da7:
+    PCC0BDDB4: cf9c87bbcf294475af39418d05de45f3
+    P0BA83773: 69deb9c7c605448baaccd2da2ad95aef
+    P462F5C35: 3a3b54a7e1aa4954acd2b1d5d7e36bbb
+    PA2B82BD6: 8bc38d8f5bbf4b5a9a29ca681a733b65
+    PE996E0A3: 8700f15bc510462290ddb82a4097abb9
+  76313493583b432e8ae6da68eec9dcc7:
+    PCC0BDDB4: c48f8708f2c14351924cb5597f1df755
+    P0BA83773: b011f0942afd45c69ebef03ecc7caa75
+    P462F5C35: 5a02ad6f6ef94a4fb6f52923f06a566e
+    PA2B82BD6: fc14a86cdcc64a23a0cfa16bacdfc4dc
+    PE996E0A3: 13abf50d87d14e48a6894611c874faa6
+  0da7d296e0a646b280bcac2277dfde7a:
+    PCC0BDDB4: bd926e29ee9847fcbc2728ee63d3ff85
+    P0BA83773: 72971c54a761452db704a9cd5785ce44
+    P462F5C35: d1b4afa79b6b48b986dc1ec5d099eb75
+    PA2B82BD6: 3f8076a8e43d4506838bf97fe7657429
+    PE996E0A3: 0cb002d326c14de28b3dc9c15326c406
+  1200cef7799e4337ba1f749fb7fc8834:
+    PCC0BDDB4: fdd1e60997324d8db44d83fd4d9a23cf
+    P0BA83773: 5c7df4dc61994d668555dfb8ba7e2712
+    P462F5C35: 720470f9aa874bdc98e6cba543449044
+    PA2B82BD6: cafa8f9231e440e2bc070cbbd9e78300
+    PE996E0A3: 8d833a03387942afb256e7c311aae9fa

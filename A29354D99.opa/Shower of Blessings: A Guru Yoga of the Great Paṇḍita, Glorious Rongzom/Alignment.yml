@@ -1,0 +1,26 @@
+segment_sources:
+  PCC0BDDB4:
+    type: origin_type
+    relation: translation
+    language: en
+  P462F5C35:
+    type: origin_type
+    relation: translation
+    language: fr
+  PE996E0A3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c824320816f54e649d30cdfa44f90c1f:
+    PCC0BDDB4: 85c448cd40c6454ebcd8aba7564a3f9d
+    P462F5C35: a8dccb05e7f741afbfd04a13a02976ba
+    PE996E0A3: 01d5eb41996e48098bdffd78335ebe96
+  f8a82ec72fc943f68e0d6c39b154b24e:
+    PCC0BDDB4: 3860ca860c044e1ea6fa13c66f7fe29e
+    P462F5C35: bdd6a7fad89e46928cfd3d06bd62c3e8
+    PE996E0A3: b5ad59118b8c41efb49679bcd8982ed8
+  bcd855183ae6459988ca36778b7e918e:
+    PCC0BDDB4: 6af0a2207d1644d683356e9ed1104341
+    P462F5C35: 14474c012f7f46ba88178bbfc357831e
+    PE996E0A3: 3e1a4cddea254155833b10f4f889b9b7
